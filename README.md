@@ -15,3 +15,5 @@ Credits
 -------
 <a href="" rel="noopener noreferrer">Something by some person</a>
 <br>
+<a href="" rel="noopener noreferrer">Another thing by another person</a>
+<br>
